@@ -1,5 +1,7 @@
 # 💫 About Me:
-🎓I'm a student pursuing BBA(CA) <br>💼I'm also working as Back Office Executive<br>💻I' loved to create some awesome codes and programs here <br>🖐I' Need Coder Friends So I Can Relate with them<br>I'm Fan of Master Harry (:yt: CodeWithHarry)
+🎓I'm a student pursuing BBA(CA) <br>💼I'm also working as Back Office Executive<br>💻I' loved to create some awesome codes and programs here <br>🖐I' Need Coder Friends So I Can Relate with them<br>I'm Fan of Master Harry
+@CodeWithHarry
+<a href="https://youtube.com/@CodeWithHarry" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&amp;logoColor=white" alt="YouTube"></a>
 
 
 ## 🌐 Socials:
