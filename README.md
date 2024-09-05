@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student pursuing BBA(CA) <br>I'm also working as Back Office Executive<br>I' loved to create some awesome codes and programs here <br>I' Need Coder Friends So I Can Relate with them<br>I'm Fan of Master Harry (CodeWithHarry) 
+🎓I'm a student pursuing BBA(CA) <br>💼I'm also working as Back Office Executive<br>💻I' loved to create some awesome codes and programs here <br>🖐I' Need Coder Friends So I Can Relate with them<br>I'm Fan of Master Harry (:yt: CodeWithHarry)
 
 
 ## 🌐 Socials:
